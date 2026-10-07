@@ -1,0 +1,33 @@
+mode = "light"
+
+# Light companion to cosmic-cat: warm paper greys from the backdrop,
+# with slightly deeper lens accents for contrast on light surfaces.
+accent = "#2a9aab"
+selection = "#d3c9c8"
+muted = "#9c9392"
+
+background = "#e9dfde"
+dark_background = "#dfd5d4"
+darker_background = "#d0c6c5"
+lighter_background = "#f6f7f4"
+
+foreground = "#1e292c"
+dark_foreground = "#7a7d81"
+light_foreground = "#394548"
+bright_foreground = "#12181a"
+
+red = "#c24f42"
+yellow = "#b8962a"
+orange = "#c46a2e"
+green = "#2f9a68"
+cyan = "#2a9aab"
+blue = "#3a8f9a"
+magenta = "#a44d86"
+brown = "#7d4c2f"
+
+bright_red = "#e06a5a"
+bright_yellow = "#da803e"
+bright_green = "#54ab4f"
+bright_cyan = "#5cc0ca"
+bright_blue = "#3bbdce"
+bright_magenta = "#c45fa0"
